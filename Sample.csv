@@ -1,0 +1,194 @@
+ID,Name,Category,Subcategory,Price,Stock
+1,Cream Vanilla(S),Ice Cream,Classic Flavour (100ml Scoop),30,10
+2,Kaju Draksh(S),Ice Cream,Classic Flavour (100ml Scoop),45,10
+3,Butterscotch(S),Ice Cream,Classic Flavour (100ml Scoop),45,10
+4,Orange Fantacy(S),Ice Cream,Classic Flavour (100ml Scoop),45,10
+5,Rajbhog(S),Ice Cream,Classic Flavour (100ml Scoop),50,10
+6,Nuts Carnival(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+7,American Nuts(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+8,Kaju Gulkand(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+9,Nuts Bonanza(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+10,Roasted Almond(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+11,Kings Delight(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+12,Dryfruit Masti Kesar(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+13,Kesar Pista(S),Ice Cream,Dryfruit Mix Flavour (100ml Scoop),60,10
+14,Choco Chips(S),Ice Cream,Chocolate Flavour (100ml Scoop),60,10
+15,Dark Chocolate(S),Ice Cream,Chocolate Flavour (100ml Scoop),60,10
+16,Cookies Fiesta(S),Ice Cream,Chocolate Flavour (100ml Scoop),60,10
+17,Coffee Walnut(S),Ice Cream,Chocolate Flavour (100ml Scoop),60,10
+18,Choco Almond(S),Ice Cream,Chocolate Flavour (100ml Scoop),60,10
+19,Sitafal(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+20,Tender Coconut(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+21,Mango(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+22,Cranberry(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+23,Dragon Fruit(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+24,Black Jamun(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+25,Red Guava(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+26,Strawberry(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+27,Grapes Magic(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+28,Pineapple Berry(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+29,Kharek(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+30,Lichi(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+31,Chiku(S),Ice Cream,Fruit Flavour (100ml Scoop),60,10
+32,Ginger Honey Tulsi(S),Ice Cream,Healthy/Herbal Flavour (100ml Scoop),60,10
+33,Garam Masala(S),Ice Cream,Healthy/Herbal Flavour (100ml Scoop),60,10
+34,Lili Haldar(S),Ice Cream,Healthy/Herbal Flavour (100ml Scoop),60,10
+35,Moringa Variyali(S),Ice Cream,Healthy/Herbal Flavour (100ml Scoop),60,10
+36,Gajar / Doodhi Halva(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+37,Thandai(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+38,Adadiya Pak(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+39,Thabdi(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+40,Gulab Jamun(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+41,Pan Masala(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+42,Khajur Nuts(S),Ice Cream,Traditional Flavour (100ml Scoop),60,10
+43,Mava Malai(C),Candy,,40,10
+44,Gulkand(C),Candy,,40,10
+45,Chocolate(C),Candy,,40,10
+46,Pan Masala(C),Candy,,40,10
+47,Anjeer(C),Candy,,50,10
+48,Kesar(C),Candy,,50,10
+49,Black Jamun(C),Candy,,50,10
+50,Mango(C),Candy,,50,10
+51,Berry Magic(C),Candy,,60,10
+52,Nuts Bonanza(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+53,Almond Carnival(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+54,Kaju Gulkand(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+55,American Nut(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+56,Dryfruit King(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+57,Kings Delight(T/S),Thickshake,Nuts Thickshake (250ml),160,10
+58,Kesar Dryfruit Masti(T/S),Thickshake,Nuts Thickshake (250ml),170,10
+59,Cream Vanilla(T/S),Thickshake,Classic Thickshake (250ml),100,10
+60,Kaju Kismis(T/S),Thickshake,Classic Thickshake (250ml),140,10
+61,Butterscotch(T/S),Thickshake,Classic Thickshake (250ml),140,10
+62,Choco Vanilla(T/S),Thickshake,Chocolate Thickshake (250ml),110,10
+63,Plain Chocolate(T/S),Thickshake,Chocolate Thickshake (250ml),130,10
+64,Chocolate Chips(T/S),Thickshake,Chocolate Thickshake (250ml),140,10
+65,Kitkat(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+66,Snicker(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+67,Cadburry Bites(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+68,Gems Magic(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+69,Dark Chocolate(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+70,Choco Almonds(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+71,Cookies Fiesta(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+72,Oreo Magic(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+73,Choco Browney(T/S),Thickshake,Chocolate Thickshake (250ml),160,10
+74,Mocha Madness(T/S),Thickshake,Chocolate Thickshake (250ml),170,10
+75,Nutella(T/S),Thickshake,Chocolate Thickshake (250ml),180,10
+76,Hazelnut(T/S),Thickshake,Chocolate Thickshake (250ml),180,10
+77,Fererro Rocher(T/S),Thickshake,Chocolate Thickshake (250ml),220,10
+78,Chicoo(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+79,Banana(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+80,Berry Banana(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+81,Apple(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+82,Strawberry(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+83,Mix Fruit(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+84,Musk Melon(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+85,Litchy Banana(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+86,Sitafal(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+87,Mango(M/S),Milkshake,Fruit Milkshake (250ml),120,10
+88,Anjeer Shake(M/S),Milkshake,Nut Milkshake (250ml),130,10
+89,Fruit & Nut(M/S),Milkshake,Nut Milkshake (250ml),130,10
+90,Almond Carnival(M/S),Milkshake,Nut Milkshake (250ml),130,10
+91,Kaju Gulkand(M/S),Milkshake,Nut Milkshake (250ml),130,10
+92,Khajur Nuts Shake(M/S),Milkshake,Nut Milkshake (250ml),130,10
+93,Kesar Masti(M/S),Milkshake,Nut Milkshake (250ml),130,10
+94,Badam Pista(M/S),Milkshake,Nut Milkshake (250ml),130,10
+95,CF Special(M/S),Milkshake,Nut Milkshake (250ml),140,10
+96,Plain Chocolate(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+97,Choco Vanilla(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+98,Oreo Magic(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+99,Choco Browney(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+100,Kitkat(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+101,Choco Chips(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+102,Dark Chocolate(M/S),Milkshake,Chocolate Milkshake (250ml),120,10
+103,Litchy(J),Juice,,70,10
+104,Dragon Fruit(J),Juice,,70,10
+105,Jammun(J),Juice,,70,10
+106,Mix Fruit(J),Juice,,70,10
+107,Guava(J),Juice,,70,10
+108,Guava Pineapple(J),Juice,,70,10
+109,Mosambi(J),Juice,,70,10
+110,Orange(J),Juice,,70,10
+111,Apple(J),Juice,,70,10
+112,Pineapple(J),Juice,,70,10
+113,Pina Berry(J),Juice,,70,10
+114,Strawberry(J),Juice,,70,10
+115,Peach n Peru(J),Juice,,70,10
+116,Plums(J),Juice,,70,10
+117,Grapes(J),Juice,,70,10
+118,Tetti(J),Juice,,70,10
+119,Watermelon(J),Juice,,70,10
+120,Choco Waffle(W),Waffle,Classic Waffle,70,10
+121,Choco Nutrela(W),Waffle,Classic Waffle,70,10
+122,Nutella Waffle(W),Waffle,Classic Waffle,70,10
+123,Mix Fruit(W),Waffle,Saucy Waffle,130,10
+124,Strawberry / Mango Mix Fruit(W),Waffle,Saucy Waffle,130,10
+125,Kitkat(W),Waffle,Chocolate Waffle,140,10
+126,Gems Delight(W),Waffle,Chocolate Waffle,140,10
+127,Snicker(W),Waffle,Chocolate Waffle,150,10
+128,Mix Chocolate(W),Waffle,Chocolate Waffle,160,10
+129,Choco Sundae(W),Waffle,Sundae Waffle,200,10
+130,Frootie Sundae(W),Waffle,Sundae Waffle,200,10
+131,Double Sundae(W),Waffle,Sundae Waffle,220,10
+132,Cookies/Browney(W),Waffle,Sundae Waffle,220,10
+133,Black Jamun Half(F/S),Fruit Shots,,70,10
+134,Black Jamun Full(F/S),Fruit Shots,,130,10
+135,Red Guava Half(F/S),Fruit Shots,,70,10
+136,Red Guava Full(F/S),Fruit Shots,,130,10
+137,Strawberry Half(F/S),Fruit Shots,,70,10
+138,Strawberry Full(F/S),Fruit Shots,,130,10
+139,Mix Fruit Half(F/S),Fruit Shots,,70,10
+140,Mix Fruit Full(F/S),Fruit Shots,,130,10
+141,Plain Lassi(L),Lassi / Yogurt,,40,10
+142,Mango Lassi(L),Lassi / Yogurt,,50,10
+143,Strawberry Lassi(L),Lassi / Yogurt,,50,10
+144,Mix Fruit Lassi(L),Lassi / Yogurt,,50,10
+145,Dryfruit Lassi(L),Lassi / Yogurt,,60,10
+146,Pineapple Lassi(L),Lassi / Yogurt,,50,10
+147,Kesar Badam Lassi(L),Lassi / Yogurt,,60,10
+148,Cold Cocoa(C/C),Cold Cocoa / Cold Coffee,,60,10
+149,Cold Coffee(C/C),Cold Cocoa / Cold Coffee,,60,10
+,Cream Vanilla (F/P),Family Pack,Fruit Flavour (500ml Pack),150,10
+,Kaju Draksh (F/P),Family Pack,Classic Flavour (500ml Pack),200,10
+,Butterscotch (F/P),Family Pack,Classic Flavour (500ml Pack),200,10
+,Orange Fantacy (F/P),Family Pack,Classic Flavour (500ml Pack),200,10
+,Rajbhog (F/P),Family Pack,Classic Flavour (500ml Pack),220,10
+,Nuts Carnival (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,American Nuts (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Kaju Gulkand (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Nuts Bonanza (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Roasted Almond (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Kings Delight (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Dryfruit Masti Kesar (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Kesar Pista (F/P),Family Pack,Dryfruit Mix Flavour (500ml Pack),250,10
+,Choco Chips (F/P),Family Pack,Chocolate Flavour (500ml Pack),250,10
+,Dark Chocolate (F/P),Family Pack,Chocolate Flavour (500ml Pack),250,10
+,Cookies Fiesta (F/P),Family Pack,Chocolate Flavour (500ml Pack),250,10
+,Coffee Walnut (F/P),Family Pack,Chocolate Flavour (500ml Pack),250,10
+,Choco Almond (F/P),Family Pack,Chocolate Flavour (500ml Pack),250,10
+,Sitafal (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Tender Coconut (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Mango (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Cranberry (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Dragon Fruit (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Black Jamun (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Red Guava (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Strawberry (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Grapes Magic (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Pineapple Berry (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Kharek (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Lichi (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Chiku (F/P),Family Pack,Fruit Flavour (500ml Pack),250,10
+,Ginger Honey Tulsi (F/P),Family Pack,Healthy/Herbal Flavour (500ml Pack),250,10
+,Garam Masala (F/P),Family Pack,Healthy/Herbal Flavour (500ml Pack),250,10
+,Lili Haldar (F/P),Family Pack,Healthy/Herbal Flavour (500ml Pack),250,10
+,Moringa Variyali (F/P),Family Pack,Healthy/Herbal Flavour (500ml Pack),250,10
+,Gajar / Doodhi Halva (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Thandai (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Adadiya Pak (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Thabdi (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Gulab Jamun (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Pan Masala (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Khajur Nuts (F/P),Family Pack,Traditional Flavour (500ml Pack),250,10
+,Water Bottle(Small),Water-Bottle,,10,10
+,Water Bottle(Big),Water-Bottle,,20,10
