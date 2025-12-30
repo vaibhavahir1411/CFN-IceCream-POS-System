@@ -1,6 +1,7 @@
 # 🍦 CFN Ice Cream Parlour POS System
 
-👉 **[⬇️ Download CFN POS v1.0 (Windows EXE)](https://github.com/USERNAME/REPO/releases/download/v1.0/CFN.exe)**
+👉 **[⬇️ Download CFN POS v1.0 (Windows EXE)](https://github.com/vaibhavahir1411/CFN-IceCream-POS-System/releases/download/v1.0/CFN.exe
+)**
 
 ---
 
