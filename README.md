@@ -1,3 +1,9 @@
+# 🍦 CFN Ice Cream Parlour POS System
+
+👉 **[⬇️ Download CFN POS v1.0 (Windows EXE)](https://github.com/USERNAME/REPO/releases/download/v1.0/CFN.exe)**
+
+---
+
 ## 🧾 Project Description
 
 **CFN Ice Cream Parlour POS System** is a complete billing and stock management solution designed for small to medium ice cream shops.  
